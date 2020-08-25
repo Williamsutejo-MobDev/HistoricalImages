@@ -10,7 +10,7 @@
     <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Glenferrie Statio"
+            android:text="Glenferrie Station"
             android:textSize="30sp" android:accessibilityHeading="true" android:textStyle="bold"
             android:textAlignment="center"/>
     <TextView
